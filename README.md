@@ -1,6 +1,6 @@
 # XLStoJSON
 
-This code converts a table dataset from XLS (or XLSX) format to JSON. The table is assumed to have two headers (for columns and rows).
+This code converts a table dataset from XLS (or XLSX) format to JSON. The table is assumed to have headers for both rows and columns.
 
 ## Dependencies
 

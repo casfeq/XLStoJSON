@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"row",
+				"row_data"
+			],
+			[
+				"shet",
+				"sheet_data"
+			],
+			[
+				"work",
+				"workbookdata"
+			],
+			[
+				"she",
+				"sheet_data"
+			],
+			[
+				"sehet",
+				"sheet_data"
+			],
+			[
+				"col",
+				"col_values"
+			],
+			[
+				"get",
+				"_get_row_headers"
+			],
+			[
+				"xls",
+				"xlsfile"
+			],
+			[
 				"fil",
 				"filename"
 			],
@@ -482,52 +514,11 @@
 			[
 				"Vec",
 				"VecDestroy"
-			],
-			[
-				"data",
-				"dataProcessing"
-			],
-			[
-				"eps",
-				"epsErrorNorm"
-			],
-			[
-				"printve",
-				"printvector"
-			],
-			[
-				"coln",
-				"colNo-1"
-			],
-			[
-				"coeffi",
-				"coefficientsAssembly"
-			],
-			[
-				"spar",
-				"sparseCoefficientsRow"
-			],
-			[
-				"midc",
-				"midCols-1"
-			],
-			[
-				"pois",
-				"poisonUndrained"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "libs/xls2json.py",
-			"settings":
-			{
-				"buffer_size": 976,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -613,16 +604,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON",
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps",
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/libs"
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON"
 	],
 	"file_history":
 	[
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps/main.py",
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/msh2xdmf.py",
-		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/GeoFlow1D-master/Libs/GridLib.py",
 		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/README.md",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/libs/xls2json.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/.gitignore",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps/output/Poroelastic_Properties.json",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/msh2xdmf.py",
+		"/home/carlos/.local/lib/python3.7/site-packages/xlrd/__init__.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps/main.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/GeoFlow1D-master/Libs/GridLib.py",
 		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/parser.py",
 		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/json_files/back.json",
 		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/json_files/properties.json",
@@ -742,15 +735,11 @@
 		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotSolution.py",
 		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/bash/solution.sh",
 		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/geomec.sh",
-		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/input/doublePorosity.txt",
-		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleHStability.cpp",
-		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleTStability.cpp",
-		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/bash/double.sh",
-		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/doublePorosity_dt_stability.png"
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/input/doublePorosity.txt"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -764,6 +753,24 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"[0]",
+			"workbookdata",
+			"counter",
+			"rowData",
+			"columnNames",
+			"row",
+			"column",
+			"_get_column",
+			"_get_columen_headers",
+			"headers",
+			"_get_headers",
+			"xlsfile",
+			"_get_columns",
+			"values",
+			"rows",
+			"Workbook",
+			"self.workbook",
+			"workbook",
 			"msh",
 			": \n\t{",
 			"\":",
@@ -845,38 +852,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "libs/xls2json.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 976,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								708,
-								708
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 165.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -943,7 +920,7 @@
 		[
 			[
 				"",
-				"~/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/mshtoxdmf.sublime-project"
+				"~/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/PyGeomec.sublime-project"
 			]
 		],
 		"width": 380.0
