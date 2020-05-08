@@ -1,0 +1,973 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"regio",
+				"regionElements"
+			],
+			[
+				"__num",
+				"__numberOfRegions"
+			],
+			[
+				"p1elem",
+				"p1ElemConnectivity"
+			],
+			[
+				"region",
+				"regionNames"
+			],
+			[
+				"__Num",
+				"__numberOfRegions"
+			],
+			[
+				"elem",
+				"elemOnRegion2"
+			],
+			[
+				"p1el",
+				"p1ElemConn"
+			],
+			[
+				"numof",
+				"numberOfElements"
+			],
+			[
+				"numb",
+				"numberOfElements"
+			],
+			[
+				"num",
+				"numberOfNodes"
+			],
+			[
+				"elementdata",
+				"element_data_raw"
+			],
+			[
+				"sud",
+				"subdomains_mf"
+			],
+			[
+				"boundaries_m",
+				"boundaries_mf"
+			],
+			[
+				"xd",
+				"XDMFFile"
+			],
+			[
+				"boun",
+				"boundaries_mvc"
+			],
+			[
+				"celld",
+				"cell_data_raw"
+			],
+			[
+				"xdm",
+				"xdmf_type"
+			],
+			[
+				"elements",
+				"elements"
+			],
+			[
+				"element",
+				"element_nodes"
+			],
+			[
+				"elemen",
+				"elements_raw"
+			],
+			[
+				"msh",
+				"msh2xdmf"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"chefk",
+				"CheckFiles"
+			],
+			[
+				"elemen_data",
+				"element_data_raw"
+			],
+			[
+				"zone",
+				"zone_type"
+			],
+			[
+				"facet",
+				"facet_data"
+			],
+			[
+				"cell",
+				"cell_data"
+			],
+			[
+				"Check",
+				"CheckFiles"
+			],
+			[
+				"Km",
+				"KM"
+			],
+			[
+				"macro",
+				"macroPermeability"
+			],
+			[
+				"mac",
+				"macroPorosity"
+			],
+			[
+				"km",
+				"Km"
+			],
+			[
+				"phim",
+				"phiM"
+			],
+			[
+				"frac",
+				"fracturePorosity"
+			],
+			[
+				"phi",
+				"phiM"
+			],
+			[
+				"strip",
+				"stripLoad"
+			],
+			[
+				"cool",
+				"collocated"
+			],
+			[
+				"coef",
+				"coefficientsMatrix"
+			],
+			[
+				"pnum",
+				"PNumeric"
+			],
+			[
+				"fv",
+				"pressureFVIndex"
+			],
+			[
+				"NP",
+				"NPM"
+			],
+			[
+				"xcord",
+				"xCoordFile"
+			],
+			[
+				"pres",
+				"pressure3DField"
+			],
+			[
+				"tim",
+				"timeStep"
+			],
+			[
+				"indep",
+				"independentTermsAssembly"
+			],
+			[
+				"size",
+				"size1"
+			],
+			[
+				"ter",
+				"terzaghiDisplacement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"expor",
+				"exportedTimeSteps"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"cure",
+				"currentPosition"
+			],
+			[
+				"cur",
+				"currentTime"
+			],
+			[
+				"curren",
+				"currentPosition"
+			],
+			[
+				"fluid",
+				"fluidViscosity"
+			],
+			[
+				"flui",
+				"fluidBulkModulus"
+			],
+			[
+				"pressure",
+				"pressureNodesPerElement"
+			],
+			[
+				"a",
+				"advance"
+			],
+			[
+				"total",
+				"totalElementsInY"
+			],
+			[
+				"tota",
+				"totalNodesInX"
+			],
+			[
+				"node",
+				"nodeNumber"
+			],
+			[
+				"nod",
+				"nodesPerFace"
+			],
+			[
+				"nodesper",
+				"nodesPerFace"
+			],
+			[
+				"nodes",
+				"nodesPerFace"
+			],
+			[
+				"allo",
+				"allocatable"
+			],
+			[
+				"si",
+				"sizeInY"
+			],
+			[
+				"displ",
+				"displacementElemConnectivity"
+			],
+			[
+				"totalele",
+				"totalElementsInX"
+			],
+			[
+				"al",
+				"allocatable"
+			],
+			[
+				"totalno",
+				"totalNodesInX"
+			],
+			[
+				"curr",
+				"currentElementInX"
+			],
+			[
+				"delt",
+				"deltaY"
+			],
+			[
+				"sin",
+				"sizeInY"
+			],
+			[
+				"deta",
+				"deltaY"
+			],
+			[
+				"curen",
+				"currentNodeInY"
+			],
+			[
+				"cu",
+				"currentNodeInX"
+			],
+			[
+				"len",
+				"len_trim"
+			],
+			[
+				"siz",
+				"sizeInX"
+			],
+			[
+				"old",
+				"oldMatrix"
+			],
+			[
+				"oldo",
+				"oldColSize"
+			],
+			[
+				"nw",
+				"newMatrix"
+			],
+			[
+				"shap",
+				"shapeTest"
+			],
+			[
+				"sizein",
+				"sizeInX"
+			],
+			[
+				"Proj",
+				"PROJECT_NAME\tbuiltin"
+			],
+			[
+				"projec",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"hello",
+				"helloWorld"
+			],
+			[
+				"PROJE",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"for",
+				"FORTRAN_PREPROCESS_FLAG"
+			],
+			[
+				"target",
+				"target_link_libraries\tcommand"
+			],
+			[
+				"include",
+				"include_directories\tcommand"
+			],
+			[
+				"P",
+				"PROJECT_NAME\tbuiltin"
+			],
+			[
+				"proj",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"p",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"PRoJ",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"in",
+				"independentTermsArray"
+			],
+			[
+				"stripfoo",
+				"stripfooting_p_timestep"
+			],
+			[
+				"is",
+				"is_open"
+			],
+			[
+				"export",
+				"exportStripfootingSolution"
+			],
+			[
+				"Pp",
+				"P_P"
+			],
+			[
+				"addStrip",
+				"addStripfootingBC"
+			],
+			[
+				"addstripfoot",
+				"addStripfootingDirichletBCToContinuity"
+			],
+			[
+				"stripfo",
+				"stripfooting"
+			],
+			[
+				"grid",
+				"gridType"
+			],
+			[
+				"tran",
+				"transposedCoefficientsMatrix"
+			],
+			[
+				"ChaR",
+				"charLength"
+			],
+			[
+				"log",
+				"logP"
+			],
+			[
+				"xData",
+				"xDataT"
+			],
+			[
+				"xda",
+				"xDataT"
+			],
+			[
+				"point",
+				"point1H"
+			],
+			[
+				"mesh",
+				"meshSizeNo"
+			],
+			[
+				"ptim",
+				"pTimeReduced"
+			],
+			[
+				"mand",
+				"mandelPAnalyticalSolution"
+			],
+			[
+				"myd",
+				"myDataProcessing"
+			],
+			[
+				"paren",
+				"parentDirectory"
+			],
+			[
+				"PORO",
+				"poroelasticProperties"
+			],
+			[
+				"y",
+				"yExact"
+			],
+			[
+				"pre",
+				"pressureFVCoordinates"
+			],
+			[
+				"c1",
+				"C1"
+			],
+			[
+				"linear",
+				"linearSystemSolutionPETSc"
+			],
+			[
+				"Vec",
+				"VecDestroy"
+			],
+			[
+				"data",
+				"dataProcessing"
+			],
+			[
+				"eps",
+				"epsErrorNorm"
+			],
+			[
+				"printve",
+				"printvector"
+			],
+			[
+				"coln",
+				"colNo-1"
+			],
+			[
+				"coeffi",
+				"coefficientsAssembly"
+			],
+			[
+				"spar",
+				"sparseCoefficientsRow"
+			],
+			[
+				"midc",
+				"midCols-1"
+			],
+			[
+				"pois",
+				"poisonUndrained"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "libs/xls2json.py",
+			"settings":
+			{
+				"buffer_size": 976,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"clear cache",
+				"LaTeXTools: Clear cache"
+			],
+			[
+				"cache",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Biber",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"biber",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"build",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"biblate",
+				"Set Syntax: BibLaTeX"
+			],
+			[
+				"Delete",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/libs"
+	],
+	"file_history":
+	[
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/apps/main.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/msh2xdmf.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/GeoFlow1D-master/Libs/GridLib.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/XLStoJSON/README.md",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/parser.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/json_files/back.json",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/json_files/properties.json",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/GeoFlow1D-master/Libs/Json_Files/solid.json",
+		"/home/carlos/Downloads/data.txt",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/grid.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/apps/main.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/.gitignore",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/PyGeomec.sublime-project",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/GeoFlow1D-master/Libs/Tests/TestGridLib.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/libs/tests/testGrid.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/PyGeomec1D/README.md",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/GeoPy-1D/.gitignore",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/GeoPy-1D/GeoPy.sublime-project",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/GeoPy-1D/GeoFlow1D-master/Libs/GridLib.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/examples/domain.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/output/1Rectangle_2D_physical_region.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/test.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/xdmf2dolfin.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/examples/boundaries.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/output/1Rectangle_2D_facets.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/_ansys.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/output/1Rectangle_2D.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/README.md",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/main.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/output/2Rectangles_2D.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/.gitignore",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/msh2xdmf/test/import/test_dolfin_import.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/msh2xdmf/msh2xdmf.py",
+		"/home/carlos/Downloads/Ubuntu/sh/utilities.sh",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/convert.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/msh2xdmf/test/conversion/test_conversion.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/subdomain_test.py",
+		"/home/carlos/.local/lib/python3.7/site-packages/meshio/_common.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/xdmf_examples/cut_facet_region.xdmf",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/libs/_xdmf.py",
+		"/home/carlos/.local/lib/python3.7/site-packages/meshio/xdmf/main.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/input/1Rectangle_2D.msh.ignore",
+		"/home/carlos/Downloads/Ubuntu/sh/git.sh",
+		"/usr/include/dolfin/io/XDMFFile.h",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/working/cut_facet_region.xdmf",
+		"/usr/lib/python3/dist-packages/dolfin/__init__.py",
+		"/usr/lib/python3/dist-packages/dolfin/io/__init__.py",
+		"/home/carlos/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/apps/input/1Rectangel_2D.msh",
+		"/usr/lib/python3/dist-packages/fenics/__init__.py",
+		"/usr/lib/python3/dist-packages/dolfin/mesh/__init__.py",
+		"/usr/lib/python3/dist-packages/dolfin/mesh/meshvaluecollection.py",
+		"/usr/lib/python3/dist-packages/dolfin/mesh/meshfunction.py",
+		"/usr/share/dolfin/data/README",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotSolutionCILAMCE2020.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotSolutionCILAMCE2020.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/double.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotSolutionPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/plot/terzaghiSolution_paper.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleSolution.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/include/benchmarking.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotSolutionPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/paper.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/include/coefficientsAssembly.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/include/problemDoubleParameters.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/export/solveTerzaghiRunInfo.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainSolution.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Publicações/doublePorosity/Extended_Abstract/abstract_CILAMCE_Carlos.tex",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/include/problemParameters.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/gulfMexicoShale.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/doublePorosity.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/geomec.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/bash/double.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleHStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/doublePorosityVerification.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDimless.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainConvergence.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleTStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainTConvergence.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/source/mainStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/modifiedHardSediment.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_collocated+CDS-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_staggered-grid.pdf",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/stripfootPlotStabilityPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/CMakeLists.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_collocated+I2DPIS-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/abyssalRedClay.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/input/softSediment.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_staggered-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotDimless.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/stripfootPlotStabilityPaper2.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotSolution.py",
+		"/home/carlos/Downloads/petsc.sh",
+		"/home/carlos/Downloads/firststeps.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC-DHRTC Pesquisador Voluntário/Códigos/Geomec2D/GeomecFVLib.sublime-project",
+		"/home/carlos/.bashrc",
+		"/home/carlos/Libraries/valgrind/README",
+		"/home/carlos/Libraries/valgrind/.bashrc",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainSolution.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/stripfootPlotStabilityPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/paper.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_staggered-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/include/benchmarking.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_collocated+CDS-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/stripfootStability_collocated+I2DPIS-grid.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotStabilityPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/doublePorosityPlotTStability.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/doublePorosityPlotHStability.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotSolution.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/terzaghiPlotSolutionPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/include/independentTermsAssembly.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/include/coefficientsAssembly.hpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotSolutionPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotStabilityPaper.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/mandelStability_comparison.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/terzaghiStability_comparison.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/bash/stability.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/mandelSolution_paper.png",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/terzaghiSolution_paper.png",
+		"/home/carlos/Dropbox/Carreira/2018-2019 UFSC Mestrado em Engenharia Mecânica/Publicações/thesispaper/sections/results.tex",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/postpro/mandelPlotSolution.py",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/bash/solution.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/geomec.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/input/doublePorosity.txt",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleHStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/source/mainDoubleTStability.cpp",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/bash/double.sh",
+		"/home/carlos/Dropbox/Carreira/2020 SINMEC Pesquisador Voluntário/Códigos/Geomec2D/plot/doublePorosity_dt_stability.png"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"msh",
+			": \n\t{",
+			"\":",
+			"\":\"",
+			" ",
+			"Danian ",
+			"chalk",
+			"marble",
+			"salt",
+			"granite",
+			"clay",
+			"red",
+			"sediment",
+			"shale",
+			"sand",
+			"felt",
+			"viscosity",
+			"water",
+			"fluid",
+			":\n\t{",
+			" ",
+			"\"",
+			"0",
+			"0.",
+			"E-",
+			":",
+			" )",
+			"( ",
+			"\"Fluid viscosity\"",
+			"\"Permeability\":",
+			"\"Porosity\":",
+			"\"Fluid Bulk Modulus\"",
+			"\"Solid Bulk Modulus\"",
+			"\"Bulk Modulus\":",
+			"\"Shear Modulus\":",
+			"\"Porous medium\":",
+			"R2",
+			"R1",
+			"elemOnRegion2",
+			"regionNames",
+			"elemOnRegion2",
+			"p2ElemConn",
+			"p1ElemConn",
+			"p1",
+			"elemConnectivity",
+			"nVertices",
+			"p2Elem",
+			"elem",
+			"p1ElemConn",
+			"1",
+			"elemConn",
+			"setElementConnectivity",
+			"elemConnectivity",
+			"p0",
+			"nodesCoord",
+			"nVertices",
+			"displacementGridData",
+			"gridData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"\"",
+			"0",
+			"0.",
+			"e-",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "libs/xls2json.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xlstojson.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Contents/Introduction.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Carreira/2020-2023 DTU PhD in Applied Mathematics and Computer Science/Codes/MSHtoXDMF/mshtoxdmf.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
