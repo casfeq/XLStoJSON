@@ -19,7 +19,6 @@ def CheckFiles():
 			print("There is no *.xls or *.xlsx files in the input folder")
 	else:
 		print("There is no input folder")
-	print("")
 	return files
 
 

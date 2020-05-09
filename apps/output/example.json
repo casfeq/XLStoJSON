@@ -1,0 +1,17 @@
+{
+	"Label 1": {
+		"Label": "Label 1",
+		"Header_1": "Value 11",
+		"Header_2": "Value 21"
+	},
+	"Label 2": {
+		"Label": "Label 2",
+		"Header_1": "Value 12",
+		"Header_2": "Value 22"
+	},
+	"Label 3": {
+		"Label": "Label 3",
+		"Header_1": "Value 13",
+		"Header_2": "Value 23"
+	}
+}
