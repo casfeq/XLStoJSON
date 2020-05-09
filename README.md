@@ -7,32 +7,32 @@ This code converts a tabular dataset from XLS/XLSX format to JSON. The table is 
 
 XLS/XLSX data structure input:
 ```
-+-------------------+-----------------------+-----------------------+
-|		Label		|		Header 1		|		Header 2		|
-+-------------------+-----------------------+-----------------------+
-|		Label 1		|		Value 11		|		Value 21		|
-|		Label 2		|		Value 12		|		Value 22		|
-|		Label 3		|		Value 13		|		Value 23		|
-+-------------------+-----------------------+-----------------------+
++-----------------+------------------+------------------+
+|      Label      |     Header 1     |     Header 2     |
++-----------------+------------------+------------------+
+|      Label 1    |     Value 11     |     Value 21     |
+|      Label 2    |     Value 12     |     Value 22     |
+|      Label 3    |     Value 13     |     Value 23     |
++-----------------+------------------+------------------+
 ```
 JSON data structure output:
 ```
 {
-	"Label 1": {
-		"Label": "Label 1",
-		"Header_1": "Value 11",
-		"Header_2": "Value 21"
-	},
-	"Label 2": {
-		"Label": "Label 2",
-		"Header_1": "Value 12",
-		"Header_2": "Value 22"
-	},
-	"Label 3": {
-		"Label": "Label 3",
-		"Header_1": "Value 13",
-		"Header_2": "Value 23"
-	}
+    "Label 1": {
+        "Label": "Label 1",
+        "Header_1": "Value 11",
+        "Header_2": "Value 21"
+    },
+    "Label 2": {
+        "Label": "Label 2",
+        "Header_1": "Value 12",
+        "Header_2": "Value 22"
+    },
+    "Label 3": {
+        "Label": "Label 3",
+        "Header_1": "Value 13",
+        "Header_2": "Value 23"
+    }
 }
 ```
 ## Dependencies
