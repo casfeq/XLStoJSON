@@ -16,7 +16,7 @@ XLS/XLSX data structure input:
 +-----------------+------------------+------------------+
 ```
 JSON data structure output:
-```
+```json
 {
     "Label 1": {
         "Label": "Label 1",
