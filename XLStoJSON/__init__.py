@@ -1,35 +1,17 @@
-import glob
-import json
 import os
-import subprocess
-
+import json
 import datetime
 import xlrd
 
 
-def CheckFiles():
-	files = []
-	if os.path.exists("input"):
-		os.chdir("input")
-		for file in glob.glob("*.xls"):
-			files.append(file)
-		for file in glob.glob("*.xlsx"):
-			files.append(file)
-		if files == []:
-			print("There is no *.xls or *.xlsx files in the input folder")
-	else:
-		print("There is no input folder")
-	return files
+class XLS2JSON(object):
+	def __init__(self, input_dir, output_dir, filename):
+		self.input_dir = input_dir
+		self.output_dir = output_dir
+		self.filename = filename
 
-
-def ClearOutputFolder():
-	subprocess.call(["sh", "-c", "rm -rf ../output/*"])
-	return
-
-
-class XlsFile(object):
-	def __init__(self, filename):
-		self.workbook = xlrd.open_workbook(filename)
+	def read(self):
+		self.workbook = xlrd.open_workbook("{}/{}".format(self.input_dir, self.filename))
 		self.workbook_data = {}
 		for sheet in range(self.workbook.nsheets):
 			worksheet = self.workbook.sheet_by_index(sheet)
@@ -38,7 +20,6 @@ class XlsFile(object):
 			sheet_data = self._get_sheet_data(worksheet, column_headers)
 			for row in range(1,worksheet.nrows):
 				self.workbook_data[row_headers[row]] = sheet_data[row-1]
-
 
 	def _get_column_headers(self, worksheet):
 		column_headers = worksheet.row_values(0, 0, worksheet.row_len(0))
@@ -68,17 +49,8 @@ class XlsFile(object):
 			row_counter += 1
 		return row_data
 
-
-def XlsReader(filename):
-	xlsfile = XlsFile(filename)
-	dataset = xlsfile.workbook_data
-	return dataset
-
-
-def JsonWriter(dataset, file):
-	filename = os.path.splitext(file)[0]
-	file = "../output/" + filename + ".json"
-	output = open(file, "w+")
-	output.write(json.dumps(dataset, indent="\t",  separators=(',', ": ")))
-	output.close()
-	return
+	def write(self):
+		file = "{}/{}.json".format(self.output_dir, os.path.splitext(self.filename)[0])
+		f = open(file, "w+")
+		f.write(json.dumps(self.workbook_data, indent="\t", separators=(",", ": ")))
+		f.close()
