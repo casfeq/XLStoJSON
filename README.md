@@ -2,36 +2,29 @@
 
 This package intends to support the conversion of a tabular dataset file from XLS/XLSX format to JSON format. The table is assumed to have headers for both rows and columns.
 
-## Dependencies
+## Dependencies & Installation
 
 To use, it is necessary
 
 - [python 3](https://www.python.org/downloads/) (3.8.2);
 - [xlrd](https://pypi.org/project/xlrd/) (1.2.0).
 
-The installation of the dependencies, may be done by the command:
+You may install MSHtoXDMF and its dependencies by running the command:
 
-```shell
-$ python3 dependencies.py
-```
-
-## Installation
-
-You may install XLStoJSON by running the command:
-
-```shell
-$ python3 setup.py install --prefix="~/.local"
+```bash
+./install.sh
 ```
 
 ## Example
 
-There is an example of the usage of XLStoJSON in XLStoJSON/example.py. You may also test the installation by running:
+There is an example of the usage of XLStoJSON in "test.py". You may also test the installation by running:
 
-```shell
-$ python3 example.py
+```bash
+$ python3 test.py
 ```
 
 XLS/XLSX data structure input:
+
 ```
 +-----------------+------------------+------------------+
 |      Label      |     Header 1     |     Header 2     |
@@ -42,6 +35,7 @@ XLS/XLSX data structure input:
 +-----------------+------------------+------------------+
 ```
 JSON data structure output:
+
 ```json
 {
     "Label 1": {
@@ -66,6 +60,6 @@ JSON data structure output:
 
 You may remove this package by running:
 
-```shell
-rm -r ~/.local/lib/python3.8/site-packages/XLStoJSON-0.0.1-py3.8.egg
+```bash
+./uninstall.sh
 ```
